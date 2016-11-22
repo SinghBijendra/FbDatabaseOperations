@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="database_basic">Save Retrive Values</string>
+    <string name="basic_tag_id">0</string>
+    <string name="basic_database">Save Retrive Values</string>
+    <string name="add_value">Add Value</string>
+    <string name="read_value">Retrive data</string>
+    <string name="facebook_app_id"></string>
+    <string name="friend_list">Friend List</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
